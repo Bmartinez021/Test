@@ -66,7 +66,7 @@ if __name__ == "__main__":
         ("MAKATI","MARIKINA"),
         ("MARIKINA", "MAKATI"),
         ("MAKATI", "TAGUIG")
-        #new comment
+        
 
         ]
 
